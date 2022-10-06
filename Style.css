@@ -57,6 +57,11 @@ p {
   margin: 0 auto;
 }
 
+a {
+  color: #20d8fe;
+  text-align: center;
+}
+
 iframe {
   display: block;
   margin: 0 auto;
