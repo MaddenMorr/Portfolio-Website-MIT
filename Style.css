@@ -60,6 +60,7 @@ p {
 a {
   color: #20d8fe;
   text-align: center;
+  margin: 0 auto;
 }
 
 iframe {
