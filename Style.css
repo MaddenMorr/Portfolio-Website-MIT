@@ -15,6 +15,11 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  color: #fd0198;
+  text-align: center;
+}
+
 button {
   padding: 10px 15px;
   display: block;
@@ -44,12 +49,7 @@ ul {
   color: #20d8fe;
 }
 
-h3 {
-  color: #20d8fe;
-  text-align: center;
-}
-
 p {
-  color: #fd0198;
+  color: #20d8fe;
   text-align: center;
 }
