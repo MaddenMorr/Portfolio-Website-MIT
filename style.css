@@ -39,27 +39,27 @@ ul {
 }
 
 .PacMen {
-  color: #fd0198;
+  color: #885df1;
 }
 
 .EyeExercise {
-  color: #885df1;
+  color: #20d8fe;
 }
 
 .BusTracking {
-  color: #20d8fe;
-}
-
-.PacMen p {
   color: #fd0198;
 }
 
-.EyeExercise p {
+.PacMen p {
   color: #885df1;
 }
 
-.BusTracking p {
+.EyeExercise p {
   color: #20d8fe;
+}
+
+.BusTracking p {
+  color: #fd0198;
 }
 
 p {
