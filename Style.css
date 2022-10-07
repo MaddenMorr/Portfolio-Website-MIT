@@ -50,6 +50,18 @@ ul {
   color: #20d8fe;
 }
 
+.PacMan p {
+  color: #fd0198;
+}
+
+.EyeExercise p {
+  color: #885df1;
+}
+
+.BusTracking p {
+  color: #20d8fe;
+}
+
 p {
   color: #20d8fe;
   text-align: center;
