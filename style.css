@@ -80,6 +80,11 @@ iframe {
   margin: 0 auto;
 }
 
+.pic {
+  height: 100px;
+  margin: 0 auto;
+}
+
 footer {
   display: flex;
   justify-content: center;
