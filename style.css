@@ -19,6 +19,7 @@ h3 {
   text-decoration: underline;
   color: #fd0198;
   text-align: center;
+  font-size: 14px
 }
 
 button {
@@ -35,7 +36,7 @@ button {
 }
 
 ul {
-  font-size: 18px;
+  font-size: 12px;
 }
 
 .PacMen {
