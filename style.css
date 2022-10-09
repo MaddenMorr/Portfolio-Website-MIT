@@ -5,19 +5,19 @@ body {
 h1 {
   text-decoration: underline;
   font-style: italic;
-  color: #885df1;
+  color: #fd0198;
   text-align: center;
   font-size: 48px;
 }
 
 h2 {
-  color: #20d8fe;
+  color: #885df1;
   text-align: center;
 }
 
 h3 {
   text-decoration: underline;
-  color: #fd0198;
+  color: #20d8fe;
   text-align: center;
 }
 
@@ -39,27 +39,27 @@ ul {
 }
 
 .PacMen {
-  color: #885df1;
+  color: #fd0198;
 }
 
 .EyeExercise {
-  color: #20d8fe;
-}
-
-.BusTracking {
-  color: #fd0198;
-}
-
-.PacMen p {
   color: #885df1;
 }
 
-.EyeExercise p {
+.BusTracking {
   color: #20d8fe;
 }
 
-.BusTracking p {
+.PacMen p {
   color: #fd0198;
+}
+
+.EyeExercise p {
+  color: #885df1;
+}
+
+.BusTracking p {
+  color: #20d8fe;
 }
 
 p {
